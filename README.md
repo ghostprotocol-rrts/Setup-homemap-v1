@@ -5,9 +5,7 @@ How to use:
 
 run the script
 
-Will ask for a name for the home diractory:
-
-"Enter a name for the home directory: "
+Will ask for a name for the home diractory: "Enter a name for the home directory: "
 
 type in name
 

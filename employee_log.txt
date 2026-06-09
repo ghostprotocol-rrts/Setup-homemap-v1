@@ -1,0 +1,40 @@
+[2026-06-09 14:03:52]
+rowId      : 2
+firstName  : Pelle
+lastName   : Pellsson
+department : Ekonomi
+role       : Ekonomiassistent
+startDate  : 2026-05-25
+manager    : Helena Nilsson
+username   : pelle.pellsson
+----------------------------------------
+[2026-06-09 14:03:52]
+rowId      : 3
+firstName  : Kalle
+lastName   : Karlsson
+department : Sälj
+role       : Säljare
+startDate  : 2026-07-25
+manager    : Anna Andersson
+username   : kalle.karlsson
+----------------------------------------
+[2026-06-09 14:03:52]
+rowId      : 4
+firstName  : Test
+lastName   : Testsson
+department : Sälj
+role       : Säljare
+startDate  : 06/23/2026 22:00:00
+manager    : Anna Andersson
+username   : test.testsson
+----------------------------------------
+[2026-06-09 14:03:52]
+rowId      : 5
+firstName  : Ogge
+lastName   : Kodkung
+department : ekonomi
+role       : ekonimiassistent
+startDate  : 07/06/2026 22:00:00
+manager    : Anna Andersson
+username   : ogge.kodkung
+----------------------------------------
